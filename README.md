@@ -75,10 +75,12 @@ gcc main.c -o main
 
 * [x] Basic syntax
 * [x] Loop & conditional
+* [x] Game Variabel
 * [x] Array & pointer dasar
 * [ ] Pointer lanjutan
 * [ ] Dynamic memory
 * [ ] Project kecil berbasis C
+      
 
 ---
 
